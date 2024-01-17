@@ -196,7 +196,7 @@ Also, if you are working with datasets that have anisotropic voxel sizes (e.g., 
 
 ### Part 3: Using the `Segmentations` module
 
-The `Segmentations` module goes hand-in-hand with the `Segment Editor` module. You can even easily switch to it by clicking on green arro button on top of the ``Segment Editor`` module (in the orange box in the image below). 
+The `Segmentations` module goes hand-in-hand with the `Segment Editor` module. You can even easily switch to it by clicking on green arrow button on top of the ``Segment Editor`` module (in the orange box in the image below). 
 
 <img src="images/image19.png">
 
